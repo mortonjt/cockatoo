@@ -26,6 +26,8 @@ class TestVAE(unittest.TestCase):
 
     def test_optimize(self):
         # TODO : fill this out
+        # see pytorch-lightning documentation
+        # https://github.com/PyTorchLightning/pytorch-lightning
         pass
 
 
