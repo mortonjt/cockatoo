@@ -1,4 +1,3 @@
-
 import numpy as np
 from skbio.stats.composition import closure
 from gneiss.cluster import random_linkage
